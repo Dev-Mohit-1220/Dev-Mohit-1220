@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next JS, Express and MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail me on dev.mike.1220@gmail.com
-- 😄 Pronouns: Mo he ta
+- 😄 Pronouns: Mo he t
 - ⚡ Fun fact: ...
 
 <!---
