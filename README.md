@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohit Jogiwala
 - 👀 I’m interested in React, Angular and Firebase
 - 🌱 I’m currently learning Next JS, Express and MongoDB
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React, Firebase, Angular, Docker, Azure, AWS and python.
 - 📫 How to reach me : mail me on dev.mike.1220@gmail.com
 - 😄 Pronouns: Mo he t
 - ⚡ Fun fact: ...
