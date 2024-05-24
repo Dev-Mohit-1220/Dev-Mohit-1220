@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Next JS, Express and MongoDB
 - 💞️ I’m looking to collaborate on React, Firebase, Angular, Docker, Azure, AWS and python.
 - 📫 How to reach me : mail me on dev.mike.1220@gmail.com
-- 😄 Pronouns: Mo he t
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Mo-hi-t
 
 <!---
 Dev-Mohit-1220/Dev-Mohit-1220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
