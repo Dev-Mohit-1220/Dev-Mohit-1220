@@ -19,32 +19,36 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">🌐 Passionate about building scalable and efficient web applications.</p>
+<div align="center" style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
+
+<p align="center">🌐 <strong>Passionate about building scalable and efficient web applications.</strong></p>
 
 <p align="center">
   <b>👀 I’m currently focused on:</b><br>
-  <i>React, Angular, and Firebase</i>
+  <i><a href="https://reactjs.org/" target="_blank">React</a>, <a href="https://angular.io/" target="_blank">Angular</a>, and <a href="https://firebase.google.com/" target="_blank">Firebase</a></i>
 </p>
 
 <p align="center">
   <b>🌱 Expanding my skillset with:</b><br>
-  <i>Next.js, Express, and MongoDB</i>
+  <i><a href="https://nextjs.org/" target="_blank">Next.js</a>, <a href="https://expressjs.com/" target="_blank">Express</a>, and <a href="https://www.mongodb.com/" target="_blank">MongoDB</a></i>
 </p>
 
 <p align="center">
   <b>💡 Looking to collaborate on:</b><br>
-  <i>React, Firebase, Angular, Docker, Azure, AWS, and Python</i>
+  <i><a href="https://reactjs.org/" target="_blank">React</a>, <a href="https://firebase.google.com/" target="_blank">Firebase</a>, <a href="https://angular.io/" target="_blank">Angular</a>, <a href="https://www.docker.com/" target="_blank">Docker</a>, <a href="https://azure.microsoft.com/" target="_blank">Azure</a>, <a href="https://aws.amazon.com/" target="_blank">AWS</a>, and <a href="https://www.python.org/" target="_blank">Python</a></i>
 </p>
 
 <p align="center">
   <b>📫 How to reach me:</b><br>
-  <a href="mailto:dev.mike.1220@gmail.com">dev.mike.1220@gmail.com</a>
+  <a href="mailto:dev.mike.1220@gmail.com">dev.mike.1220@gmail.com</a> ✉️
 </p>
 
 <p align="center">😄 Pronouns: Mo-he-t</p>
 
+</div>
+
 ---
 
-<p align="center">
+<p align="center" style="background-color:#e8e8e8; padding: 15px; border-radius: 10px;">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
 </p>
