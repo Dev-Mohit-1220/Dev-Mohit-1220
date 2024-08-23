@@ -45,7 +45,17 @@
 
 <p align="center">
   <b>👀 I’m currently focused on:</b><br>
-  <i><a href="https://reactjs.org/" target="_blank">React</a>, <a href="https://angular.io/" target="_blank">Angular</a>, and <a href="https://firebase.google.com/" target="_blank">Firebase</a></i>
+  <i>
+    <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  </a>
+  </i>
 </p>
 
 <p align="center">
