@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif'); background-size: cover; padding: 50px; border-radius: 15px;">
+<div align="center" style="background-image: url('./sky-bg.jpg'); background-size: cover; padding: 50px; border-radius: 15px;">
 
 <h2 align="center">👋 Hi, I'm Mohit Jogiwala</h2>
 
