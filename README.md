@@ -59,10 +59,3 @@
 <p align="center">😄 Pronouns: Mo-he-t</p>
 
 </div>
-
----
-
-<p align="center" style="background-color:#e8e8e8; padding: 15px; border-radius: 10px;">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</p>
-
